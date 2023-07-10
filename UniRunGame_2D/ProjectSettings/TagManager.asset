@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Dead
   layers:
   - Default
   - TransparentFX
@@ -38,6 +39,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BackGround
+    uniqueID: 1720851299
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 3137892395
+    locked: 0
+  - name: Player
+    uniqueID: 3935871745
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3410266169
     locked: 0
